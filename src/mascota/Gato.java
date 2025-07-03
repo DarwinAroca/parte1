@@ -7,5 +7,5 @@ public class Gato extends Mascota {
 
     public void maullar() {
         System.out.println(nombre + " dice: ¡Miau!");
-    }
+}
 }

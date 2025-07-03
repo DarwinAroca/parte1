@@ -11,12 +11,3 @@ public class Main {
         c.recibirMascota(m2);
     }
 }
-
-/* ¿Qué pasa si se envía una clase que no hereda de `Mascota`?
- R:El programa no compila
-
-
-¿Cómo se comporta si eliminas el `instanceof` y casteas directamente?
-R:habria una falla en la clase classcastException
-
- */
